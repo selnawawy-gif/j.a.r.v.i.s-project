@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "Iron Man inspired personal AI assistant with Paul Bettany British voice, wake word detection, schedule & calendar integration, and app launcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
